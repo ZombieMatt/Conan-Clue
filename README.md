@@ -22,4 +22,4 @@ D) You can pick I am ready to play to play along (or test) as well.
 A) Stop the event, but leave guessing and reward npcs active. This way, if anyone started the quest, but had to leave, crash, or whatever they can still come back and make guesses but none of the other thespians will speak to them. 
 B) Stop the event and disable all thespians. (I plan to make this more customizable later)
 
-5) The only scripting changes that must be done manually are setting cool down for quests, the reward, and the option to have the killer (Alice) teleport players outside of the event instead of killing them on the spot. Players still fail the quest if the killer or guard kill them, but having dead bodies laying on the ground next to Alice may give things away too much. 
+5) The only scripting changes that must be done manually are setting cool down for quests, the reward, and the option to have the killer (Alice) teleport players outside of the event instead of killing them on the spot. Players still fail the quest if the killer or guard kills them, but having dead bodies lying on the ground next to Alice may give things away too much.
