@@ -13,13 +13,13 @@ The rest of the thespians and look any way you want them to. The make guess, rew
 2) An egress door should be placed on the kitchen door. There are few ways for players to figure out the passcode for the door and there is a secret way into the room if players find it. No other placeables are required at this time. (Remove the pippi note after the egress door has been added)
 
 3) To start the event an admin must speak with the event starter thespian. Even though only one option is available you must still use the dialogs. 
-a) "I want to setup or change..." Only acceptable values right now are "A horse dildo, BallRoom, Alice" 
-b) Next set the egress code. It will pick a random code. Make sure you set the passcode for the egress to match the value from the dialog.
-c) I am ready to start the event. 
-d) You can pick I am ready to play to play along (or test) as well.
+A) "I want to setup or change..." Only acceptable values right now are "A horse dildo, BallRoom, Alice" 
+B) Next set the egress code. It will pick a random code. Make sure you set the passcode for the egress to match the value from the dialog.
+C) I am ready to start the event. 
+D) You can pick I am ready to play to play along (or test) as well.
 
 4) Players can lock in their guesses at any time. Once they make a guess, they cannot change it. Once they have voted they can find out if they won or not.  Admins can end the event two ways. Speaking with Event Starter they can 
-a) Stop the event, but leave guessing and reward npcs active. This way, if anyone started the quest, but had to leave, crash, or whatever they can still come back and make guesses but none of the other thespians will speak to them. 
-b) Stop the event and disable all thespians. (I plan to make this more customizable later)
+A) Stop the event, but leave guessing and reward npcs active. This way, if anyone started the quest, but had to leave, crash, or whatever they can still come back and make guesses but none of the other thespians will speak to them. 
+B) Stop the event and disable all thespians. (I plan to make this more customizable later)
 
 5) The only scripting changes that must be done manually are setting cool down for quests, the reward, and the option to have the killer (Alice) teleport players outside of the event instead of killing them on the spot. Players still fail the quest if the killer or guard kill them, but having dead bodies laying on the ground next to Alice may give things away too much. 
